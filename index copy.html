@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<h1>Basic System</h1>
+<ul>
+  <li>5 card major</li>
+  <li>Multicolor 2 Diamond with Muiderberg</li>
+  <li>Roman Keycard Blackwood 1430</li>
+  <li>Styaman, Transfers</li>
+  <li>Michaels, Unusual No Trump</li>
+</ul>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
