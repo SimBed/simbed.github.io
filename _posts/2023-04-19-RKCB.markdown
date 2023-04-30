@@ -1,0 +1,61 @@
+---
+layout: post
+title:  "Roman Keycard Blackwood 1430"
+date:   2023-04-19 18:09:56 +0530
+categories: jekyll update
+---
+RKCB1430 is used to explore slam, when a trump suit has been agreed [^1].<br>
+4NT asks how many "key cards" do you hold? [^2]
+
+[^1]: if the trump suit has not been explicitly agreed, RKCB1430 is off and 'normal' Blackwood ('ace ask') applies.
+[^2]: A key card is any ace and the king in the trump suit.
+
+# Responses to 4NT
+
+| Response | Key Cards |
+| ----------- | ----------- |
+| 5<font style='color:black;'>&clubs;</font> | 1 or 4 |
+| 5<font style='color:red;'>&diams;</font> | 0 or 3  |
+| 5<font style='color:red;'>&hearts;</font> | 2 or 5, no queen of trumps |
+| 5<font style='color:black;'>&spades;</font> | 2 or 5, plus queen of trumps |
+
+# Queen Ask after 5<font style='color:black;'>&clubs;</font>/5<font style='color:red;'>&diams;</font> response
+Bid the cheapest non-trump suit
+
+| Response to Queen Ask | Meaning |
+| ----------- | ----------- |
+| Trump Suit | no trump queen |
+| 5NT | trump queen, no side kings  |
+| Any non-trump suit | trump queen plus king of bid suit |
+
+1c-2s-4nt-5c-5d-5h (agrees spades, shows 1/4 KCs, queen of spades and king of hearts)
+
+# Void-showing responses
+
+Instead of the 5 suit level responses, responder can force to slam and show a void + odd/even number of Key Cards
+
+| Response | Key Cards | Void (bid suit not trumps) | Void (bid suit trumps)
+| ----------- | ----------- |
+| 5NT | even (2 or 4) | somewhere | n/a
+| 6<font style='color:black;'>&clubs;</font> | odd | clubs | any other suit
+| 6<font style='color:red;'>&diams;</font> | odd  | diamonds | hearts or spades
+| 6<font style='color:red;'>&hearts;</font> | odd | hearts | spades
+
+1c-2s-4nt-6h (agrees spades, shows odd KCs, void in hearts.)
+
+# Asking for Kings (5NT)
+Normal Blackwood
+
+# RKCB In Competition
+Ignore (or pass) double
+System is off with any suit intervention after 4NT
+
+# Why 1430?
+Creates more space for the queen at times when it is most useful (and less available when less useful)<br>
+hearts agreed..4nt-5c (typically 1 ace and still room for 5d queen ask, which is good because slam realistic)<br>
+hearts agreed..4nt-5d (typically 0 ace and no room for 5d queen ask, which is ok because slam no longer realistic)<br>
+the other way round with 0314, the queen ask is lost when it is most needed and available when it is less useful.
+
+[bridgebum source](https://www.bridgebum.com/roman_key_card_blackwood.php)
+
+
