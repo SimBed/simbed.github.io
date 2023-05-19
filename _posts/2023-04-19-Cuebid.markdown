@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Cue Bid"
+date:   2023-04-19 18:09:56 +0530
+categories: jekyll update
+---
+
+Bid the opponent’s suit
+Forcing bid. Respond naturally if unsure exactly what it means.
+Multiple Variations
+
+
+Michaels
+
+Unassuming
+
+
+
+

@@ -47,14 +47,14 @@ a 2<font style='color:red;'>&diams;</font> opening bid shows *one* of the follow
 # In Competition
 - Double by LHO, responses unchanged
 - Double by RHO, rebids unchanged
-- Suit bid by LHO
-- Suit bid by RHO, rebid shows strong 4-4-4-1 with singleton in suit one above the suit bid 
+- Suit bid by LHO (_wip_)
+- Suit bid by RHO, rebid shows strong 4-4-4-1 with singleton in suit one above the suit bid (_wip_)
 
 | Opener | LHO | Response | Meaning |
 | ----------- | ----------- | ----------- | ----------- |
 | 2<font style='color:red;'>&diams;</font> | 2<font style='color:red;'>&hearts;</font> | Double | ? |
 | 2<font style='color:red;'>&diams;</font> | 2<font style='color:black;'>&spades;</font> | Double | ? |
-| 2<font style='color:red;'>&diams;</font> | 2NT | Double | strong hand, equivalent to bidding 2NT without the intervening bid. Openener should respond as for the artificial 2NT response bid |
+| 2<font style='color:red;'>&diams;</font> | 2NT | Double | strong hand, equivalent to bidding 2NT without the intervening bid. Openener should respond as for the artificial 2NT response bid (_wip_) |
 | 2<font style='color:red;'>&diams;</font> | 3<font style='color:black;'>&clubs;</font> | Double | support for both majors? |
 | 2<font style='color:red;'>&diams;</font> | 3<font style='color:red;'>&diams;</font> | Double | support for both majors ? |
 

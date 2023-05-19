@@ -4,11 +4,11 @@ title:  "Roman Keycard Blackwood 1430"
 date:   2023-04-19 18:09:56 +0530
 categories: jekyll update
 ---
-RKCB1430 is used to explore slam, when a trump suit has been agreed [^1].<br>
-4NT asks how many "key cards" do you hold? [^2]
+RKCB1430 is used to explore slam, when a trump suit has been agreed <sup>1</sup>.<br>
+4NT asks how many "key cards" do you hold? <sup>2</sup>
 
-[^1]: if the trump suit has not been explicitly agreed, RKCB1430 is off and 'normal' Blackwood ('ace ask') applies.
-[^2]: A key card is any ace and the king in the trump suit.
+<sup>1</sup> if the trump suit is not *reasonably clear*, RKCB is off and 'normal' Blackwood ('ace ask') applies.<br>
+<sup>2</sup> A key card is an ace in any suit and the king in the trump suit.
 
 # Responses to 4NT
 
@@ -28,7 +28,7 @@ Bid the cheapest non-trump suit
 | 5NT | trump queen, no side kings  |
 | Any non-trump suit | trump queen plus king of bid suit |
 
-1c-2s-4nt-5c-5d-5h (agrees spades, shows 1/4 KCs, queen of spades and king of hearts)
+1<font style='color:black;'>&clubs;</font>-2<font style='color:black;'>&spades;</font>-4NT-5<font style='color:black;'>&clubs;</font>-5<font style='color:red;'>&diams;</font>-5<font style='color:red;'>&hearts;</font> (agrees spades, shows 1/4 KCs, Q<font style='color:black;'>&spades;</font> and K<font style='color:red;'>&hearts;</font>)
 
 # Void-showing responses
 
@@ -41,21 +41,25 @@ Instead of the 5 suit level responses, responder can force to slam and show a vo
 | 6<font style='color:red;'>&diams;</font> | odd  | diamonds | hearts or spades
 | 6<font style='color:red;'>&hearts;</font> | odd | hearts | spades
 
-1c-2s-4nt-6h (agrees spades, shows odd KCs, void in hearts.)
+1<font style='color:black;'>&clubs;</font>-2<font style='color:black;'>&spades;</font>-4NT-6<font style='color:red;'>&hearts;</font> (agrees <font style='color:black;'>&spades;</font>, shows odd KCs, void <font style='color:red;'>&hearts;</font>.)
 
 # Asking for Kings (5NT)
 Normal Blackwood
 
 # RKCB In Competition
-Ignore (or pass) double
-System is off with any suit intervention after 4NT
+
+| opponent bid after 4NT | Action | 
+| ----------- | ----------- |
+| Double | Ignore (or pass) |
+| Suit (eg 5<font style='color:black;'>&clubs;</font>) | System Off |
 
 # Why 1430?
 Creates more space for the queen at times when it is most useful (and less available when less useful)<br>
-hearts agreed..4nt-5c (typically 1 ace and still room for 5d queen ask, which is good because slam realistic)<br>
-hearts agreed..4nt-5d (typically 0 ace and no room for 5d queen ask, which is ok because slam no longer realistic)<br>
+...4<font style='color:red;'>&hearts;</font>-4NT-5<font style='color:black;'>&clubs;</font> (typically 1 ace and still room for 5<font style='color:red;'>&diams;</font> queen ask, which is good because slam realistic)<br>
+...4<font style='color:red;'>&hearts;</font>-4NT-5<font style='color:black;'>&clubs;</font> (typically 1 ace and still room for 5<font style='color:red;'>&diams;</font> queen ask, which is good because slam realistic)<br>
+...4<font style='color:red;'>&hearts;</font>-4NT-5<font style='color:red;'>&diams;</font> (typically 0 ace and no room for 5<font style='color:red;'>&diams;</font> queen ask, which is ok because slam no longer realistic)<br>
 the other way round with 0314, the queen ask is lost when it is most needed and available when it is less useful.
 
-[bridgebum source](https://www.bridgebum.com/roman_key_card_blackwood.php)
+[bridgebum reference](https://www.bridgebum.com/roman_key_card_blackwood.php)
 
 
