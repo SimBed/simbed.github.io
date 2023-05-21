@@ -44,7 +44,7 @@ Instead of the 5 suit level responses, responder can force to slam and show a vo
 1<font style='color:black;'>&clubs;</font>-2<font style='color:black;'>&spades;</font>-4NT-6<font style='color:red;'>&hearts;</font> (agrees <font style='color:black;'>&spades;</font>, shows odd KCs, void <font style='color:red;'>&hearts;</font>.)
 
 # Asking for Kings (5NT)
-Normal Blackwood
+Normal Blackwood. Note you may have already shown 1 king (via a key card). You show the total number of kings you have. You do _not_ subtract one for the king you may have already declared. 
 
 # RKCB In Competition
 

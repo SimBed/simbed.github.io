@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: base
+title: Home
 ---
 
 # Basic System
@@ -7,5 +8,5 @@ layout: default
 
 {% for post in site.posts %}
 ## [{{ post.title }}]({{ post.url }}) 
-{{ post.excerpt }}
+{{ post.title }}
 {% endfor %}
