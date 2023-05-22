@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Multicolor 2 Diamond"
-date:   2023-04-19 18:09:56 +0530
+title:  "Multicolor 2<font style='color:red;'>&diams;</font>"
 categories: jekyll update
 ---
+
 a 2<font style='color:red;'>&diams;</font> opening bid shows *one* of the following hands:
 1. a weak 2<font style='color:red;font-weight:bold'>&hearts;</font> <small>(often)</small>
 2. a weak 2<font style='color:black;font-weight:bold'>&spades;</font> <small>(often)</small>
@@ -25,7 +25,7 @@ a 2<font style='color:red;'>&diams;</font> opening bid shows *one* of the follow
 
 # Opener's Rebids after the artificial strong 2NT
 
-| Rebid | Meaninig |
+| Rebid | Meaning |
 | ----------- | ----------- |
 | 3<font style='color:black;'>&clubs;</font> | *strong*, weak 2<font style='color:red;'>&hearts;</font> |
 | 3<font style='color:red;'>&diams;</font> | *strong*, weak 2<font style='color:black;'>&spades;</font> |

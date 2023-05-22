@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Control Bid"
-date:   2023-04-19 18:09:56 +0530
+title: "Control Bid"
 categories: jekyll update
 ---
 

@@ -21,9 +21,9 @@
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Conventions</a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            {% for post in site.posts %}
+            {% for convention in site.conventions %}
             <li>
-              <a class="dropdown-item" href="{{ post.url }}">{{ post.title | escape }}</a>
+              <a class="dropdown-item" href="{{ convention.url }}">{{ convention.title }}</a>
             </li>            
             {% endfor %}           
               <hr class="dropdown-divider">

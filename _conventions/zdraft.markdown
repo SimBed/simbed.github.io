@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "draft"
-date:   2023-04-19 18:09:56 +0530
+title: "zdraft"
 categories: jekyll update
 ---
 Here's a sentence with a footnote. [^3]

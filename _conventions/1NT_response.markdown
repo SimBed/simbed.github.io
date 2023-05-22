@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "1 No Trump Response"
-date:   2023-04-19 18:09:56 +0530
+title: "1NT Response"
 categories: jekyll update
+description: "1 NT is the 'bid of last resort' and says nothing about the shape of the hand."
 ---
 1 NT is the 'bid of last resort' and says nothing about the shape of the hand.
 
