@@ -99,7 +99,7 @@ same hands as above
   </tr>
 </table>
 
- <sup>1</sup> 4+ <span style='color:red;'>&hearts;</span>s. Note, double can not be relied upon as a way to show 4<span style='color:red;'>&hearts;</span>s as it would show spades as well, so 1<span style='color:red;'>&hearts;</span> must be kept available to show 4+<span style='color:red;'>&hearts;</span>s (rather than 5+<span style='color:red;'>&hearts;</span>s)<br>
+ <sup>1</sup> 4+ <span style='color:red;'>&hearts;</span>s. Note, double can not be relied upon as a way to show 4<span style='color:red;'>&hearts;</span>s as it would require spades as well, so 1<span style='color:red;'>&hearts;</span> must be kept available to show 4+<span style='color:red;'>&hearts;</span>s (rather than 5+<span style='color:red;'>&hearts;</span>s)<br>
  <sup>2</sup> exactly 3<span style='color:red;'>&hearts;</span>s<br><br>
 
 #### System Off over 1NT
@@ -127,7 +127,7 @@ same hands as above
 
  <sup>1</sup> 4+ <span style='color:red;'>&hearts;</span>s<br>
  <sup>2</sup> strong<br>
- <sup>3</sup> not a support double if the 1NT is strong. A support double would risk landing in a 4-3 <span style='color:red;'>&hearts;</span> fit after South has advertised strength with a <span style='color:red;'>&hearts;</span> stopper. The chances of a 4<span style='color:red;'>&hearts;</span> game is also now remote and so this bid is better used for penalties.<br><br>
+ <sup>3</sup> not a support double if the 1NT is strong. A support double would risk landing in 2<span style='color:red;'>&hearts;</span> with a 4-3 <span style='color:red;'>&hearts;</span> fit after South has advertised strength with a <span style='color:red;'>&hearts;</span> stopper. The chances of a 4<span style='color:red;'>&hearts;</span> game is also now remote and so this bid is better used for penalties. Theoreically the system could be _on_ over a weak NT, but applying the _Principle of Parsimony_, play system off in all cases.<br><br>
 
 [bridgebum source](https://www.bridgebum.com/support_double.php)
 

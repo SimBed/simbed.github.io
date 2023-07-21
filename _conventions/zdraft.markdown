@@ -7,7 +7,6 @@ Here's a sentence with a footnote. [^3]
 
 [^3]: occasaionally.
 
-
 ==very important words==
 
 ~~The world is flat.~~
@@ -94,10 +93,6 @@ That is so funny! :joy:
 2. Second item
 3. Third item
 :diamonds:
-
-
-
-
 
 	```
 {

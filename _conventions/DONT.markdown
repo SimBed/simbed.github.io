@@ -2,7 +2,6 @@
 layout: post
 title:  "DONT"
 date:   2023-04-19 18:09:56 +0530
-categories: jekyll update
 ---
 Defense to a 1NT opening.<br>
 8+ points (consider, seat and vulnerability).<br>
@@ -15,7 +14,7 @@ DONT is OFF when opponents 1NT is weak *and* they are vulnerable. Here Double is
 | Overcall | Meaning |
 | ----------- | ----------- |
 | Double | Single-suited (6+ cards), relay to 2<font style='color:black;'>&clubs;</font>
-| 2<font style='color:black;'>&clubs;</font> | <font style='color:black;'>&clubs;</font>s and a higher suit (at least 5-4 or 4-5) |
+| 2&clubs; | <font style='color:black;'>&clubs;</font>s and a higher suit (at least 5-4 or 4-5) |
 | 2<font style='color:red;'>&diams;</font> | <font style='color:red;'>&diams;</font>s and a higher suit (at least 5-4 or 4-5) |
 | 2<font style='color:red;'>&hearts;</font>   | <font style='color:red;'>&hearts;</font>s and <font style='color:black;'>&spades;</font>s (at least 5-4 or 4-5) |
 | 2<font style='color:black;'>&spades;</font> | 6+<font style='color:black;'>&spades;</font>s (weaker than a double followed by a 2 rebid) |

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Multicolor 2<font style='color:red;'>&diams;</font>"
-categories: jekyll update
+date: 2023-04-19 18:09:56 +0530
 ---
 
 a 2<font style='color:red;'>&diams;</font> opening bid shows *one* of the following hands:
