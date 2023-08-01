@@ -1,16 +1,16 @@
 ---
 layout: post
 title:  "Roman Keycard Blackwood"
-date:   2023-04-19 18:09:56 +0530
-categories: jekyll update
 ---
 RKCB1430 is used to explore slam, when a trump suit has been agreed <sup>1</sup>.<br>
-4NT asks how many "key cards" do you hold? <sup>2</sup>
+4NT asks how many "key cards"<sup>2</sup> do you hold?
 
 <sup>1</sup> if the trump suit is not *reasonably clear*, RKCB is off and 'normal' Blackwood ('ace ask') applies.<br>
 <sup>2</sup> A key card is an ace in any suit and the king in the trump suit.
 
-# Responses to 4NT
+<br>
+
+## Responses to 4NT
 
 | Response | Key Cards |
 | ----------- | ----------- |
@@ -19,7 +19,9 @@ RKCB1430 is used to explore slam, when a trump suit has been agreed <sup>1</sup>
 | 5<font style='color:red;'>&hearts;</font> | 2 or 5, no queen of trumps |
 | 5<font style='color:black;'>&spades;</font> | 2 or 5, plus queen of trumps |
 
-# Queen Ask after 5<font style='color:black;'>&clubs;</font>/5<font style='color:red;'>&diams;</font> response
+<br>
+
+## Queen Ask after 5<font style='color:black;'>&clubs;</font>/5<font style='color:red;'>&diams;</font> response
 Bid the cheapest non-trump suit
 
 | Response to Queen Ask | Meaning |
@@ -30,7 +32,9 @@ Bid the cheapest non-trump suit
 
 1<font style='color:black;'>&clubs;</font>-2<font style='color:black;'>&spades;</font>-4NT-5<font style='color:black;'>&clubs;</font>-5<font style='color:red;'>&diams;</font>-5<font style='color:red;'>&hearts;</font> (agrees spades, shows 1/4 KCs, Q<font style='color:black;'>&spades;</font> and K<font style='color:red;'>&hearts;</font>)
 
-# Void-showing responses
+<br>
+
+## Void-showing responses
 
 Instead of the 5 suit level responses, responder can force to slam and show a void + odd/even number of Key Cards
 
@@ -43,17 +47,23 @@ Instead of the 5 suit level responses, responder can force to slam and show a vo
 
 1<font style='color:black;'>&clubs;</font>-2<font style='color:black;'>&spades;</font>-4NT-6<font style='color:red;'>&hearts;</font> (agrees <font style='color:black;'>&spades;</font>, shows odd KCs, void <font style='color:red;'>&hearts;</font>.)
 
-# Asking for Kings (5NT)
+<br>
+
+## Asking for Kings (5NT)
 Normal Blackwood. Note you may have already shown 1 king (via a key card). You show the total number of kings you have. You do _not_ subtract one for the king you may have already declared. 
 
-# RKCB In Competition
+<br>
+
+## RKCB In Competition
 
 | opponent bid after 4NT | Action | 
 | ----------- | ----------- |
 | Double | Ignore (or pass) |
 | Suit (eg 5<font style='color:black;'>&clubs;</font>) | System Off |
 
-# Why 1430?
+<br>
+
+## Why 1430?
 Creates more space for the queen at times when it is most useful (and less available when less useful)<br>
 ...4<font style='color:red;'>&hearts;</font>-4NT-5<font style='color:black;'>&clubs;</font> (typically 1 ace and still room for 5<font style='color:red;'>&diams;</font> queen ask, which is good because slam realistic)<br>
 ...4<font style='color:red;'>&hearts;</font>-4NT-5<font style='color:black;'>&clubs;</font> (typically 1 ace and still room for 5<font style='color:red;'>&diams;</font> queen ask, which is good because slam realistic)<br>

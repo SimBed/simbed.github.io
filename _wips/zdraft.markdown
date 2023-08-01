@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "zdraft"
-categories: jekyll update
+category: 'exclude'
 ---
 Here's a sentence with a footnote. [^3]
 

@@ -27,10 +27,16 @@
             </li>            
             {% endfor %}           
               <hr class="dropdown-divider">
-            </li>
             <li>
-              <a class="dropdown-item" href="#">Something else here</a>
+              WIP
             </li>
+            {% for wip in site.wips %}              
+              {% if wip.category == "wip" %}          
+                <li>
+                  <a class="dropdown-item" href="{{ wip.url }}">{{ wip.title }}</a>
+                </li>
+              {% endif %}
+            {% endfor %}              
           </ul>
         </li>
       </ul>

@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "DONT"
-date:   2023-04-19 18:09:56 +0530
 ---
 Defense to a 1NT opening.<br>
 8+ points (consider, seat and vulnerability).<br>
 DONT is OFF when opponents 1NT is weak *and* they are vulnerable. Here Double is for penalty and suit bids are natural (5+).
 
-# Overcalling 1NT
+<br>
+
+## Overcalling 1NT
 
 <hr style="border:0.5rem solid gray">
 
@@ -19,7 +20,9 @@ DONT is OFF when opponents 1NT is weak *and* they are vulnerable. Here Double is
 | 2<font style='color:red;'>&hearts;</font>   | <font style='color:red;'>&hearts;</font>s and <font style='color:black;'>&spades;</font>s (at least 5-4 or 4-5) |
 | 2<font style='color:black;'>&spades;</font> | 6+<font style='color:black;'>&spades;</font>s (weaker than a double followed by a 2 rebid) |
 
-# Partner Response to Overcall
+<br>
+
+## Partner Response to Overcall
 
 <hr style="border:0.5rem solid gray">
 
@@ -63,7 +66,9 @@ DONT is OFF when opponents 1NT is weak *and* they are vulnerable. Here Double is
 | 3<font style='color:red;'>&hearts;</font> | 6+ good <font style='color:red;'>&hearts;</font>s, non-forcing |
 | 3<font style='color:black;'>&spades;</font> | natural, non-forcing |
 
-# In Competition
+<br>
+
+## In Competition
 
 <hr style="border:0.5rem solid gray">
 

@@ -4,14 +4,16 @@ title: "Cuebid"
 ---
 
 A cuebid is a bid of a suit already bid by an opponent.
-They can:
+It can:
 - show *specific shape*
 - *force* with a strong hand when no other bid is forcing
 - be *stopper-asking* in pursuit of NT
 - occasionally be *natural*
 - *never* mean the same as an alternatively available non-cuebid
 
-# Specific Shape
+<br>
+
+## Specific Shape
 ### Michaels <small>(overcalling opener)</small>
 
 | Opponent Bid | Overcall |  Meaning
@@ -32,15 +34,18 @@ Michaels applies in the usual way
 Michaels does not apply and should not be arbitraily tried in other vaguely similar looking situations.
 eg 1<font style='color:red;'>&diams;</font>-1&spades;2<font style='color:red;'>&diams;</font> is *not* Michaels
 
+<br>
 
 ### In response to parner's overcalled opening <small>(Unassuming)</small>
 
 | Partner | Overcall | Response | Meaning
 | ----------- | ----------- | ----------- | ----------- |
-| 1<font style='color:red;'>&hearts;</font> | 2<font style='color:black;'>&clubs;</font> | 3<font style='color:black;'>&clubs;</font> | 3+ <font style='color:red;'>&hearts;</font>s, 10+ points
-| 1&clubs; | 1&spades; | 2&spades; | 4+ &clubs;s, 10+ points
+| 1<font style='color:red;'>&hearts;</font> | 2<font style='color:black;'>&clubs;</font> | 3<font style='color:black;'>&clubs;</font> | 3+<font style='color:red;'>&hearts;</font>s, 10+ points
+| 1&clubs; | 1&spades; | 2&spades; | 4+&clubs;s, 10+ points
 
-# Forcing
+<br>
+
+## Forcing
 
 ### In Response to Partner's Takeout Double
 the only way to force
@@ -57,7 +62,9 @@ the only way to force
 | ----------- | ----------- | ----------- | ----------- |
 | 1&clubs; | 1<font style='color:red;'>&hearts;</font> | - | 2&clubs; | good hand, forcing
 
-# Stopper Asking
+<br>
+
+## Stopper Asking
 
 ### In Response to Parner's Overcalled Opening on the Second Round <small>(Stopper Asking)</small>
 
@@ -77,11 +84,15 @@ the only way to force
 
 <sup>1</sup>bid 3NT with <font style='color:red;'>&hearts;</font> stop
 
-# Stopper Showing
+<br>
+
+## Stopper Showing
 
 Although it's possible to find examples, where it might be useful for a bid to *show* a stopper, this usefulness is offset by the information it conveys to the opposition and the relatively high likleihood it will be misunderstood by partner. I therefore don't propose a cuebid is *ever* used to *show* a stopper.
 
-# Natural
+<br>
+
+## Natural
 ### Delayed Cuebid
 
 A cuebid can be considered natural if (very specifically) the bidder passes originally over an opponent’s bid of a suit, then bids that suit later, without partner having bid.
@@ -100,6 +111,4 @@ A cuebid can be considered natural if (very specifically) the bidder passes orig
 | 1<font style='color:red;'>&diams;</font> | - | 1&spades; |  2<font style='color:red;'>&diams;</font><sup>1</sup>
 
 <sup>1</sup>natural<br><br> 
-A natural cuebid in this situation could occassionally be useful, however given the high likely and consequence of it being misundersood by partner, I suggest this cuebid is never used without very explicit agreement beforehand with partner. 
-
-## Splinter
+A natural cuebid in this situation could occassionally be useful, however given the high likely and consequence of it being misundersood by partner, I suggest this cuebid is never used without very explicit agreement beforehand with partner.

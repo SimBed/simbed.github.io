@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Inverted Minors"
-date: 2023-06-13
 ---
 
 a single raise of a 1&clubs;/1<font style='color:red;'>&diams;</font> opening bid is strong and a jump raise is pre-emptive and weak
-<br><br>
+
+<br>
 
 ## Response to 1 of a minor
 

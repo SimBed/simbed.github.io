@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Jacoby 2NT"
-date: 2023-06-13
+category: 'wip'
 ---
+
+work in progress
 
 [bridgebum source](https://www.bridgebum.com/jacoby_2nt.php)
 

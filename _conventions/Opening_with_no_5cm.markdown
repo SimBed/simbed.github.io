@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Opening with no 5 Card major"
-categories: jekyll update
 ---
 
 | Open | When |

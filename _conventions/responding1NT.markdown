@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "1NT Response"
-categories: jekyll update
-description: "1 NT is the 'bid of last resort' and says nothing about the shape of the hand."
+# description: "1 NT is the 'bid of last resort' and says nothing about the shape of the hand."
 ---
 1 NT is the 'bid of last resort' and says nothing about the shape of the hand.
 
@@ -18,6 +17,8 @@ Partner opens 1<font style='color:red;'>&hearts;</font>
 </table>
 
 Insufficient points to raise to the 2 level so respond 1NT
+
+<br>
 
 Partner opens 1<font style='color:black;'>&spades;</font>
 

@@ -5,12 +5,16 @@ title:  "Stayman"
 
 Stayman applies in many situations
 
+<br>
+
 ## Standard
 
 | Partner | Response |
 | ----------- | ----------- |
 | 1NT | 2<font style='color:black;'>&clubs;</font> (Stayman) |
 | 2NT | 3<font style='color:black;'>&clubs;</font> (Stayman)  |
+
+<br>
 
 ## Overcall
 
@@ -21,6 +25,7 @@ Stayman applies in many situations
 | 1<span style='color:red;'>&hearts;</span> | 1NT | 2<font style='color:black;'>&clubs;</font> (Stayman) |
 | 1<span style='color:black;'>&spades;</span> | 1NT | 2<font style='color:black;'>&clubs;</font> (Stayman) |
 
+<br>
 
 ## Stolen Bid Recovery
 
@@ -28,11 +33,15 @@ Stayman applies in many situations
 | ----------- | ----------- | ----------- | ----------- |
 | 1NT | 2<font style='color:black;'>&clubs;</font> | Double (Stayman) | (if opponents 2<font style='color:black;'>&clubs;</font> shows both majors (e.g. Landy) then System is *off* |
 
+<br>
+
 ## Delayed No Trump Opening
 
 | Partner | Response | Advance | 2nd Response |
 | ----------- | ----------- | ----------- | ----------- |
 | 2<font style='color:black;'>&clubs;</font> | 2<font style='color:red;'>&diams;</font> | 2NT | 3<font style='color:black;'>&clubs;</font> (Stayman) |
+
+<br>
 
 ## Double Interference
 
@@ -43,13 +52,13 @@ With double interference system is _on_
 | 1NT | Double | 2<font style='color:black;'>&clubs;</font> (Stayman) |
 | 2NT |  Double | 3<font style='color:black;'>&clubs;</font> (Stayman) |
 
-# Stayman (when 5-4 in the majors)
+<br>
 
 ## Smolen
 
-game forcing response when 5-4 in the majors after 1NT-2<font style='color:black;'>&clubs;</font>-
+game forcing response when 5-4 in the majors
 
-| Opener's Response to Stayman | Smolen Advance | Explanation |
+| Opener's Response to Stayman (ie 1NT-2<font style='color:black;'>&clubs;</font>-) | Smolen Advance | Explanation |
 | ----------- | ----------- | ----------- |
 | 2<font style='color:red;'>&hearts;</font> | 4<font style='color:red;'>&hearts;</font> | 8 or 9 card major match found |
 | 2<font style='color:black;'>&spades;</font> | 4<font style='color:black;'>&spades;</font> | 8 or 9 card major match found |
@@ -58,16 +67,18 @@ game forcing response when 5-4 in the majors after 1NT-2<font style='color:black
 
 ## Garbage Stayman
 
-attempt to find major match when weak and 5-4 in the majors after 1NT-2<font style='color:black;'>&clubs;</font>-
+attempt to find major match when weak and 5-4 in the majors
 
-| Opener's Response to Stayman | Advance | Explanation |
+| Stayman Response | Advance | Explanation |
 | ----------- | ----------- | ----------- |
 | 2<font style='color:red;'>&hearts;</font> | pass | 8 or 9 card major match found |
 | 2<font style='color:black;'>&spades;</font> | pass | 8 or 9 card major match found |
 | 2<font style='color:red;'>&diams;</font> | 2<font style='color:red;'>&hearts;</font> (the longer major) | shows 5<font style='color:red;'>&hearts;</font>, 4<font style='color:black;'>&spades;</font>  |
 | 2<font style='color:red;'>&diams;</font> | 2<font style='color:black;'>&spades;</font> (the longer major) | shows 5<font style='color:black;'>&spades;</font>, 4<font style='color:red;'>&hearts;</font> |
 
-## Game-forcing 4 card major, long (6+) minor
+<br>
+
+## Long (6+) Minor, 4 Card Major, Game-forcing 
 
 _Example Hand_  
 &spades; QJ73  
@@ -79,7 +90,9 @@ _Example Hand_
 | ----------- | ----------- | ----------- | ----------- |
 | 2<span style='color:red;'>&diams;</span> | 3&clubs; | 6&clubs;, 4 of a major, forcing. Partner will probably bid 3NT, but may pursue &clubs; |
 | 2<span style='color:red;'>&hearts;</span> | 3&clubs; | 6&clubs;, 4 spades. Partner may choose NT, spades (may still have 4), or clubs |
-| 2&spades; | 3&clubs; | 4&spades;, match found (6 card minor not mentioned) |
+| 2&spades; | 4&spades;  | match found (6 card minor not mentioned) |
+
+<br>
 
 ## Slam Interest (jump in the other major)
 
@@ -92,8 +105,10 @@ _Example Hand_ (partner opens 1NT)<br>
 | Stayman Response | Rebid | Meaning |
 | ----------- | ----------- | ----------- | ----------- |
 | 2<span style='color:red;'>&diams;</span> | 3NT | No match. Too weak for quantitative invite (see below).  |
-| 2<span style='color:red;'>&hearts;</span> | 3NT | 4&spades;s. No match (yet). Too weak for quantitative invite (see below). Slam prospecting can be re-initated with a cue-bid if partner follows up 4&spades;  |
+| 2<span style='color:red;'>&hearts;</span> | 3NT | 4&spades;s. No match (yet). Too weak for quantitative invite. Slam prospecting can be re-initated with a cue-bid if partner follows up 4&spades;  |
 | 2&spades; | 3<span style='color:red;'>&hearts;</span> | Artificial. 4&spades; slam interest, start cuebidding if interested |
+
+<br>
 
 ## Slam Interest (quantitative invite)
 
