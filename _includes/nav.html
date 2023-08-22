@@ -19,8 +19,8 @@
         {%- endif -%}
         {%- endfor -%}
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Conventions</a>
-          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown-1" role="button" data-bs-toggle="dropdown" aria-expanded="false">Conventions</a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown-1">
             {% for convention in site.conventions %}
             <li>
               <a class="dropdown-item" href="{{ convention.url }}">{{ convention.title }}</a>
@@ -37,6 +37,16 @@
                 </li>
               {% endif %}
             {% endfor %}              
+          </ul>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown-2" role="button" data-bs-toggle="dropdown" aria-expanded="false">Hands</a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown-2">
+            {% for hand in site.hands %}
+            <li>
+              <a class="dropdown-item" href="{{ hand.url }}">{{ hand.title }}</a>
+            </li>            
+            {% endfor %}                   
           </ul>
         </li>
       </ul>

@@ -36,6 +36,9 @@ collections:
   wips:
     sort_by: title  
     output: true
+  hands:
+    sort_by: title  
+    output: true
 # Build settings
 theme: minima
 # theme: jekyll-theme-hacker

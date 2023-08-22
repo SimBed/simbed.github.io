@@ -17,18 +17,3 @@ Partner opens 1<font style='color:red;'>&hearts;</font>
 </table>
 
 Insufficient points to raise to the 2 level so respond 1NT
-
-<br>
-
-Partner opens 1<font style='color:black;'>&spades;</font>
-
-<table style='width: auto; border: 0;'>
-  <td style='border: 0;'>
-  <font style='color:black;'>&spades; 10</font>
-  <br/> <font style='color:red;'>&hearts; QJ754 </font>
-  <br/> <font style='color:red;'>&diams; 5 </font>
-  <br/> <font style='color:black;'>&clubs; J87654</font>
-  </td>
-</table>
-
-Insufficient points to raise to the 2 level so respond 1NT

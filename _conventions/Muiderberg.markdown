@@ -12,8 +12,6 @@ wip: true
 
 ## Response
 
-<hr style="border:0.5rem solid gray">
-
 | Overcall | Meaning |
 | ----------- | ----------- |
 | Pass | to play
@@ -24,8 +22,15 @@ wip: true
 | 3NT | natural, signoff |
 | 4<font style='color:red;'>&hearts;</font>/4&spades; | Natural, signoff. Can be pre-emptive or strong. |
 
-## Opener's Rebids After 2NT
-[WIP]
+<br>
 
+## Opener's Rebids After 2NT
+
+| Overcall | Meaning |
+| ----------- | ----------- |
+| 3&clubs; | &clubs;s and weak
+| 3<font style='color:red;'>&diams;</font> | <font style='color:red;'>&diams;</font>s and weak |
+| 3<font style='color:red;'>&hearts;</font> | &clubs;s and strong |
+| 3&spades; | <font style='color:red;'>&diams;</font>s and strong |
 
 [bridgebum source](https://www.bridgebum.com/muiderberg_two_bids.php)
