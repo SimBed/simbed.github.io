@@ -44,11 +44,11 @@ a single raise of a 1&clubs;/1<font style='color:red;'>&diams;</font> opening bi
     <td>1&clubs;</td>
     <td>-</td>
     <td>3&clubs;</td>
-    <td>0-6 points, 5+&clubs;s, no 4 card major<sup>1</sup></td>
+    <td>0-6 points, 5+&clubs;s, (does not deny 4 card major)<sup>1</sup></td>
   </tr>
 </table>
 
-<sup>1</sup> feeel this requirement should be dropped?
+<sup>1</sup>Bridgebase states no 4 card major. Drop this requirement
 <br><br>
 
 ### Be Aware

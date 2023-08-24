@@ -17,6 +17,7 @@ wip: true
 | Pass | to play
 | 2&spades; | response to 2<font style='color:red;'>&hearts;</font> only. Natural, 6+ |
 | 2NT | 15+ points, artificial, bid your minor. |
+| 3&clubs; | Support for either minor. Asks opener to pass or correct. Denies support for opener's major. |
 | 3<font style='color:red;'>&diams;</font> | Artificial, 3+ card support, game-invitational strength. |
 | 3<font style='color:red;'>&hearts;</font>/3&spades; | pre-emptive raise with 3+ card support |
 | 3NT | natural, signoff |
