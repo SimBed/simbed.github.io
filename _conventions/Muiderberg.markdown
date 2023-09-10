@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Muiderberg"
-wip: true
 ---
 
 - 2<font style='color:red;'>&hearts;</font>/2&spades; weak opening preempt.
