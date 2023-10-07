@@ -3,7 +3,7 @@ layout: post
 title:  "Stayman"
 ---
 
-Stayman applies in many situations
+Stayman applies in many situations:
 
 <br>
 

@@ -9,25 +9,25 @@ title: "Jacoby 2NT"
 
 <br>
 
-## Opener's Rebids
+### Opener's Rebids
 
 | Rebid | Meaning |
 | ----------- | ----------- |
 new suit at the 3 level | shortness in that suit
-3 of the trunp suit | strong
+3 of the trump suit | strong
 new suit at the 4 level | 5+ in that suit
-4 of the trump suit | (minimum)
+4 of the trump suit | minimum
 
 <br>
 
-## 2NT by a Passed Hand
-2NT is ACOL-style, 10-12 balanced
+### 2NT by a Passed Hand
+2NT is ACOL-style, 10-12 balanced.
 
 <br>
 
-## In Competition
-Jacoby 2NT is _off_ over suit _and_ double intervention<br>
-2NT is ACOL-style, 10-12 balanced
+### In Competition
+Jacoby 2NT is _off_ over suit _and_ double intervention.<br>
+2NT is ACOL-style, 10-12 balanced.
 
 <br>
 
