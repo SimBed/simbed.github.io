@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "4th suit forcing"
+title: "Defense to Multi 2d"
 category: 'wip'
 ---
 
