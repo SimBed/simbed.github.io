@@ -66,7 +66,7 @@ the only way to force
 
 ## Stopper Asking
 
-### In Response to Parner's Overcalled Opening on the Second Round <small>(Stopper Asking)</small>
+### In Response to Parner's Second Bid (After an Initial Overcall) <small>(Stopper Asking)</small>
 
 | North | East | South | West
 | ----------- | ----------- | ----------- |
@@ -111,4 +111,4 @@ A cuebid can be considered natural if (very specifically) the bidder passes orig
 | 1<font style='color:red;'>&diams;</font> | - | 1&spades; |  2<font style='color:red;'>&diams;</font><sup>1</sup>
 
 <sup>1</sup>natural<br><br> 
-A natural cuebid in this situation could occassionally be useful, however given the high likely and consequence of it being misundersood by partner, I suggest this cuebid is never used without very explicit agreement beforehand with partner.
+A natural cuebid in this situation could occassionally be useful, however given the high likelihood and consequence of it being misundersood by partner, I suggest this cuebid is never used without very explicit agreement beforehand with partner.
