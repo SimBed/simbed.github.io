@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Cuebid"
+description: a site devoted to the reduction of uncertainty
+image: /favicon.png
 ---
 
 A cuebid is a bid of a suit already bid by an opponent.

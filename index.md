@@ -10,7 +10,7 @@ title: Home
 
 {% for convention in site.conventions %}
 ## [{{ convention.title }}]({{ convention.url }}) 
-{{ convention.description }}
+<!-- {{ convention.description }} -->
 {% endfor %}
 
 <br>

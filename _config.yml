@@ -19,11 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Bridge Conventions
+tagline: the conventions i play
 author:
   name: SimBed
   email: dansimbed@gmail.com
 email: dansimbed@gmail.com
-description: simbed 2023 
+description: a site devoted to the reduction of uncertainty
+logo: /favicon.png
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
