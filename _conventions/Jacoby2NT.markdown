@@ -21,13 +21,13 @@ new suit at the 4 level | 5+ in that suit
 <br>
 
 ### 2NT by a Passed Hand
-2NT is ACOL-style, 10-12 balanced.
+2NT shows 10-12, balanced.
 
 <br>
 
 ### In Competition
 Jacoby 2NT is _off_ over suit _and_ double intervention.<br>
-2NT is ACOL-style, 10-12 balanced.
+2NT shows 10-12, balanced.
 
 <br>
 

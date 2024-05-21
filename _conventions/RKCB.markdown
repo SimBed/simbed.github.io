@@ -66,8 +66,7 @@ Normal Blackwood. Note you may have already shown 1 king (via a key card). You s
 ## Why 1430?
 Creates more space for the queen at times when it is most useful (and less available when less useful)<br>
 ...4<font style='color:red;'>&hearts;</font>-4NT-5<font style='color:black;'>&clubs;</font> (typically 1 ace and still room for 5<font style='color:red;'>&diams;</font> queen ask, which is good because slam realistic)<br>
-...4<font style='color:red;'>&hearts;</font>-4NT-5<font style='color:black;'>&clubs;</font> (typically 1 ace and still room for 5<font style='color:red;'>&diams;</font> queen ask, which is good because slam realistic)<br>
-...4<font style='color:red;'>&hearts;</font>-4NT-5<font style='color:red;'>&diams;</font> (typically 0 ace and no room for 5<font style='color:red;'>&diams;</font> queen ask, which is ok because slam no longer realistic)<br>
+...4<font style='color:red;'>&hearts;</font>-4NT-5<font style='color:red;'>&diams;</font> (typically 0 ace and no room for a queen ask, which is ok because slam no longer realistic)<br>
 the other way round with 0314, the queen ask is lost when it is most needed and available when it is less useful.
 
 [bridgebum reference](https://www.bridgebum.com/roman_key_card_blackwood.php)

@@ -128,6 +128,20 @@ same hands as above
  <sup>2</sup> strong<br>
  <sup>3</sup> not a support double if the 1NT is strong. A support double would risk landing in 2<span style='color:red;'>&hearts;</span> with a 4-3 <span style='color:red;'>&hearts;</span> fit after South has advertised strength with a <span style='color:red;'>&hearts;</span> stopper. The chances of a 4<span style='color:red;'>&hearts;</span> game is also now remote and so this bid is better used for penalties. Theoretically the system could be _on_ over a weak NT, but applying the _Principle of Parsimony_, play system off in all cases.<br><br>
 
+### Example Hands
+
+#### Support Redouble
+
+ <img src="/assets/images/support_redouble.png">
+
+<br>
+
+#### Incorrect Raise (Missed Support Redouble)
+
+ <img src="/assets/images/missed_support_redouble.png">
+
+ North's 2<font style='color:red;'>&hearts;</font> incorrectly shows exactly 4<font style='color:red;'>&hearts;</font>s. Redouble would show 3<font style='color:red;'>&hearts;</font>s. South now wrongly supposes an 8 card <font style='color:red;'>&hearts;</font> fit has been found.
+
 [bridgebum source](https://www.bridgebum.com/support_double.php)
 
 

@@ -50,7 +50,7 @@ a 2<font style='color:red;'>&diams;</font> opening bid shows *one* of the follow
 <br>
 
 ## In Competition
-- Double by LHO, responses unchanged
+- Double by LHO, responses unchanged (except pass now shows 6+ diamonds)
 - Double by RHO, rebids unchanged
 - Suit bid by LHO (_wip_)
 - Suit bid by RHO, rebid shows strong 4-4-4-1 with singleton in suit one above the suit bid (_wip_)

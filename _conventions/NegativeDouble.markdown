@@ -14,4 +14,14 @@ Most commonly used to show 4+ cards in a an unbid major after opponent makes a s
 | 1<font style='color:red;'>&hearts;</font> | 2<font style='color:red;'>&diams;</font> | Dbl | 4&spades; and 6+ points *OR* 5+&spades; and 6-9 points <br> (denies heart support) |
 | 1<font style='color:red;'>&hearts;</font> | 1&spades; | Dbl | 6+ points, at least 4-4 in the minors <br> (denies heart support) |
 
+<br>
+
+#### Misleading Negative Double
+
+ <img src="/assets/images/negative_double_error.png">
+
+ North's double denies spade support.
+
+ <br>
+
 [bridgebum source](https://www.bridgebum.com/negative_double.php)

@@ -91,7 +91,7 @@ weak (7-9) points and 4 card support isn't represented in this convention, so de
 <br>
 
 ### Single Raise
-weak (6-9 points) with 4+ card support
+weak (6-9 points) with 4+ card support. (cuebids are available for stronger hands)
 
 ### Jump Raise
 very weak (0-6 points) with 5+ card support
