@@ -194,7 +194,7 @@ Ditto responses at the 5 level to a subsequent 5&clubs; (Gerber asking for kings
 </table>
 
  <sup>1</sup> Stayman<br>
- <sup>2</sup> not Gerber. Presumably a splinter with heart match.
+ <sup>2</sup> not Gerber. Presumably a slam-interested splinter with heart match.
 
 <br>
 
