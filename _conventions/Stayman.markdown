@@ -58,12 +58,25 @@ With double interference system is _on_
 
 game forcing response when 5-4 in the majors
 
+#### 1NT opening
+
 | Opener's Response to Stayman (ie 1NT-2<font style='color:black;'>&clubs;</font>-) | Smolen Advance | Explanation |
 | ----------- | ----------- | ----------- |
 | 2<font style='color:red;'>&hearts;</font> | 4<font style='color:red;'>&hearts;</font> | 8 or 9 card major match found |
 | 2<font style='color:black;'>&spades;</font> | 4<font style='color:black;'>&spades;</font> | 8 or 9 card major match found |
 | 2<font style='color:red;'>&diams;</font> | 3<font style='color:red;'>&hearts;</font> (the shorter major) | shows exactly 4<font style='color:red;'>&hearts;</font>, 5<font style='color:black;'>&spades;</font>  |
 | 2<font style='color:red;'>&diams;</font> | 3<font style='color:black;'>&spades;</font> (the shorter major) | shows exactly 4<font style='color:black;'>&spades;</font>, 5<font style='color:red;'>&hearts;</font> |
+
+#### 2NT opening
+
+| Opener's Response to Stayman (ie 2NT-3<font style='color:black;'>&clubs;</font>-) | Smolen Advance | Explanation |
+| ----------- | ----------- | ----------- |
+| 3<font style='color:red;'>&hearts;</font> | 4<font style='color:red;'>&hearts;</font> | 8 or 9 card major match found |
+| 3<font style='color:black;'>&spades;</font> | 4<font style='color:black;'>&spades;</font> | 8 or 9 card major match found |
+| 3<font style='color:red;'>&diams;</font> | 3<font style='color:red;'>&hearts;</font>* (the shorter major) | shows exactly 4<font style='color:red;'>&hearts;</font>, 5<font style='color:black;'>&spades;</font>  |
+| 3<font style='color:red;'>&diams;</font> | 3<font style='color:black;'>&spades;</font>* (the shorter major) | shows exactly 4<font style='color:black;'>&spades;</font>, 5<font style='color:red;'>&hearts;</font> |
+
+*note there is no jump in the 2NT opening case, as this would preclude a final contract of 3NT. So Garbage Stayman cannot be used over 2NT, as the bids needed are lost to Smolen in preference.
 
 ## Garbage Stayman
 
@@ -76,6 +89,7 @@ attempt to find major match when weak and 5-4 in the majors
 | 2<font style='color:red;'>&diams;</font> | 2<font style='color:red;'>&hearts;</font> (the longer major) | shows 5<font style='color:red;'>&hearts;</font>, 4<font style='color:black;'>&spades;</font>  |
 | 2<font style='color:red;'>&diams;</font> | 2<font style='color:black;'>&spades;</font> (the longer major) | shows 5<font style='color:black;'>&spades;</font>, 4<font style='color:red;'>&hearts;</font> |
 
+note Garbage Stayman doesn't apply over 2NT (as the bids needed are lost to Smolen)
 <br>
 
 ## Long (6+) Minor, 4 Card Major, Game-forcing 
