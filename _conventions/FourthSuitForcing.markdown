@@ -17,6 +17,9 @@ title: "4th suit forcing"
 
 ### System is off:
 
+ - 1&clubs;-1<font style='color:red;'>&diams;</font>-1<font style='color:red;'>&hearts;</font>-1&spades;. (1&spades; is natural here.)<br>
+   1&clubs;-1<font style='color:red;'>&diams;</font>-1<font style='color:red;'>&hearts;</font>-2&spades; is 4th suit forcing, 2&spades; being artificial.<br>
+   This keeps the posibility of finding a &spades; match at a low level while still keeping plenty of space above the game-forcing bid. 
  - after opener's reverse. Any bid other than blackout is game-forcing so 4th suit forcing is redundant.
  - after opener's jump shift.
- - in competition
+ - in competition.
