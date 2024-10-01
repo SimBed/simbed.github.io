@@ -3,7 +3,7 @@ layout: post
 title: "Texas Transfers"
 ---
 
-6+ of a major with game (but not slam<sup>1</sup>) interest after partners 1NT.
+6+ of a major with game (but *not* slam<sup>1</sup>) interest after partners 1NT.
 
 ### Standard
 - Texas Transfers apply after 1NT and 2NT opening. Opener _must_ complete the transfer
@@ -22,6 +22,12 @@ title: "Texas Transfers"
 ### <sup>1</sup>Slam Bidding
 With 6+ of a major and slam interest, start with a Jacoby Transfer and follow up with a forcing rebid. This is probably the more effective way to find slam, but any follow-on bid to a Texas Transfer response (althtough technically off-system) should be easy to interpret.
 <br><br>
-1NT-4<font style='color:red;'>&hearts;-</font>4&spades;-4NT (...i probably should have used a Jacoby Transfer earlier, but RKCB, spades trumps). 
+1NT-4<font style='color:red;'>&hearts;-</font>4&spades;-4NT (...i probably should have used a Jacoby Transfer earlier, but RKCB, spades trumps).
+
+### Avoiding Texas with 6+ and slam interest
+
+ <img src="/assets/images/transfer_mild_slam_try.png" style="width:60%;">
+
+ *note Texas (which would show **no** slam interest) has not been used*
 
 
